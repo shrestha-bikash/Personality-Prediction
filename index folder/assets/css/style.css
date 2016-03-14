@@ -1,15 +1,4 @@
-﻿/*=============================================================
-    Authour URI: www.binarytheme.com
-    License: Commons Attribution 3.0
-
-    http://creativecommons.org/licenses/by/3.0/
-
-    100% To use For Personal And Commercial Use.
-    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
-    ========================================================  */
-
-/* =============================================================
+﻿/* =============================================================
    GENERAL STYLES
  ============================================================ */
 body {
@@ -30,7 +19,10 @@ body {
     ===================================*/
 
 .logo-custom {
-    max-height: 40px;
+    font-size: 1.2em;
+    font-weight: 900;
+    color:#fff;
+    margin-top: 10px;
 }
 
 #menu {
@@ -138,7 +130,7 @@ h1::after {
     content: " ";
     border: solid 2px #2f9484;
     display: block;
-    width: 200px;
+    width: 260px;
     margin: 12px auto;
 }
 
@@ -147,6 +139,9 @@ h1::after {
   ===================================*/
 .about-div {
     padding: 30px;
+}
+.para{
+    text-align: left;
 }
 
 .icon-round-border {
